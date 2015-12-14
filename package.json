@@ -1,6 +1,6 @@
 {
   "name": "supertest-thenable",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Custom modification to supertest to support promises and throw more detailed error messages.",
   "main": "lib/index.js",
   "scripts": {
