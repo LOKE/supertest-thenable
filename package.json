@@ -1,0 +1,32 @@
+{
+  "name": "supertest-thenable",
+  "version": "0.1.0",
+  "description": "Custom modification to supertest to support promises and throw more detailed error messages.",
+  "main": "lib/index.js",
+  "scripts": {
+    "lint": "standard",
+    "test": "mocha --recursive"
+  },
+  "standard": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LOKE/supertest-thenable.git"
+  },
+  "keywords": [
+    "supertest",
+    "thenable",
+    "promise"
+  ],
+  "author": "Anthony Foster",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LOKE/supertest-thenable/issues"
+  },
+  "homepage": "https://github.com/LOKE/supertest-thenable#readme",
+  "dependencies": {
+    "supertest": "^1.1.0"
+  },
+  "devDependencies": {
+    "standard": "^5.4.1"
+  }
+}
